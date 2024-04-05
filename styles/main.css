@@ -1,0 +1,19 @@
+body {
+    background-image: url('izutsumibgblur.png');
+    background-color: white;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 20px;
+
+}
+.big {
+    text-align: center;
+    background-color: rgba(215, 220, 220, 0.9);
+
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+#pfp {
+    border-radius: 5px;
+}

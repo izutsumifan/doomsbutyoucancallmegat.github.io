@@ -1,0 +1,15 @@
+body {
+    padding-top: 20px;
+    padding: 10px;
+}
+div {
+   
+   background-color: rgba(215, 220, 220, 0.9); 
+   text-align: center;
+   
+}
+img {
+    object-fit: contain;
+    width: 30%;
+    height: 30%;
+}
