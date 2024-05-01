@@ -7,5 +7,5 @@ jobs:
     steps:
       - run: echo "Opening place"
       - name: "test"
-        run: ${{ github.workspace }}/place -root web/root -port :8080
+        run: ./place -root web/root -port :8080
 
