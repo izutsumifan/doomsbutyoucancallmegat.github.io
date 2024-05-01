@@ -1,6 +1,0 @@
-#serve
-        ace desktop.html
-#place ws
-#place place.png
-#place stat
-#place verifykey
