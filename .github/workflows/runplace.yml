@@ -1,0 +1,11 @@
+name: Run Place
+run-name: ${{ github.actor }} is messing up the website
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Opening place"
+      - name: "test"
+        run: ls ${{ github.workspace }}
+
